@@ -4,7 +4,7 @@ const eris = require('eris');
 // Create a Client instance with our bot token.
 const bot = new eris.Client(keys.RPSBotClientKey);
 
-const PREFIX = 'rpc!';
+const PREFIX = 'rps!';
 
 const choicesArray = [
     'rock',
