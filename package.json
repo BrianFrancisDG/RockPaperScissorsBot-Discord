@@ -9,9 +9,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.20.3",
+    "body-parser": "^1.20.4",
     "eris": "^0.13.1",
     "eslint": "^7.1.0",
-    "express": "^4.21.2"
+    "express": "^4.22.1"
   }
 }
